@@ -1,0 +1,30 @@
+{
+  "name": "proiect-teh-web",
+  "version": "1.0.0",
+  "description": "proiect bibliografii",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreeaadm1408/vgs.git"
+  },
+  "keywords": [
+    "api",
+    "format",
+    "citat"
+  ],
+  "author": "andreeaadm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreeaadm1408/vgs/issues"
+  },
+  "homepage": "https://github.com/andreeaadm1408/vgs#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql2": "^1.5.1",
+    "nodeadmin": "^0.1.2",
+    "sequelize": "^4.23.0"
+  }
+}
